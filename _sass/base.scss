@@ -1,11 +1,11 @@
 @charset "utf-8";
-@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
 /**
  * Style variables
  */
-$base-font-family:     'Times New Roman', monospace !default;
+$base-font-family:     'JetBrains Mono', monospace !default;
 $base-font-size:       14px !default;
 $mobile-font-size:     12.5px !default;
 $base-line-height:     1.5 !default;
